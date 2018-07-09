@@ -1,0 +1,14 @@
+.instaimg img {
+    margin-bottom: 30px;
+    position: relative;
+    background-position: 50% 50%;
+    background-repeat:   no-repeat;
+    background-size:     cover;
+    height: 250px;
+    
+}
+
+.instaimg img:hover{
+    opacity: 0.5;
+}
+
